@@ -29,9 +29,6 @@ This project is used to demonstrate additional components of raytracing within U
 ## Building
 This project can be built within Unity.
 
-## Execution
-The raytracer can be run within Unity.
-
 ## Usage
 Open this project in Unity and run in order to allow the ray tracing render the scene.
 
